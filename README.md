@@ -4,6 +4,8 @@ Aplikasi web **PHP Native** untuk mencatat produk frozen food milik Pak Budi. Ve
 
 > **Repo:** <https://github.com/fizhfzn-collab/frozenmart-budi>
 
+![Pratinjau dashboard FrostMart](docs/dashboard.jpg)
+
 ---
 
 ## Perbedaan dengan proyek sebelumnya
