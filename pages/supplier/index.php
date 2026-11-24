@@ -136,7 +136,7 @@ require __DIR__ . '/../../partials/header.php';
 </div>
 
 <?php if (isset($errors['umum'])): ?>
-    <div class="toast toast--error" role="alert" style="position: static; margin-bottom: 18px;">
+    <div class="toast toast--error toast--inline" role="alert">
         <span class="toast__icon"><?= icon('alert') ?></span>
         <p><?= e($errors['umum']) ?></p>
     </div>

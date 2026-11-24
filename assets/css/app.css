@@ -9,7 +9,7 @@
     --card: #fffdf8;
     --ink: #12352d;
     --ink-soft: #245247;
-    --muted: #748078;
+    --muted: #67746c;
     --line: #e7decf;
     --line-soft: #efe8dc;
     --coral: #ff6a4a;
@@ -2488,6 +2488,11 @@ input[type="search"]::-webkit-search-cancel-button {
 
 .toast.is-leaving {
     animation: toast-out 0.25s ease both;
+}
+
+.toast--inline {
+    position: static;
+    margin-bottom: 18px;
 }
 
 .confirm-dialog {
