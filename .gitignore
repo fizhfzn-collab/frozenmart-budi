@@ -1,0 +1,19 @@
+# File sementara / lokal
+_preview.html
+*.log
+*.local.php
+
+# Editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependency (tidak dipakai di proyek ini, untuk berjaga-jaga)
+vendor/
+node_modules/
